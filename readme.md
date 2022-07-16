@@ -1,6 +1,8 @@
 # Spatial-temporal NDVI visualization and analysis via Satellite images
 ###### By Jianxuan Cao, Supervised by Jinya Su
 This is a cloud-based software based on Google Earth Platform, focusing on providing NDVI analysis using Sentinel-2 satellite images.
+ ![location](https://github.com/jianxuancao/CE301/blob/756afdef235b047b8c63d3a568ee55f17d6b96b8/PictureForReadme/poster.png)
+
 ## Table of Contents
 1. [Prerequisites and Installation](https://github.com/jianxuancao/CE301/blob/main/readme.md#prerequisites-and-installation)
 1. [Instructions](https://github.com/jianxuancao/CE301/blob/main/readme.md#instructions)
