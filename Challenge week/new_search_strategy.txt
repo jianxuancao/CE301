@@ -1,0 +1,1 @@
+("NDVI " OR "NDVI visualization ") "Satellite images" Spatial-temporal (("Spatial  " OR "Temporal  ") OR "Spatial-temporal  analysis" OR "Spatial-temporal  ")

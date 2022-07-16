@@ -1,0 +1,1 @@
+"land cover classification" (sentinel-2 OR "sentinel 2") ("satellite image" OR "satellite imaging") multispectral
