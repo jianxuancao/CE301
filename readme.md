@@ -2,12 +2,12 @@
 ###### By Jianxuan Cao, Supervised by Jinya Su
 This is a cloud-based software based on Google Earth Platform, focusing on providing NDVI analysis using Sentinel-2 satellite images.
 ## Table of Contents
-1. [Prerequisites and Installation](https://github.com/jianxuancao/CE301/edit/main/readme.md#prerequisites-and-installation)
-1. [Instructions](https://github.com/jianxuancao/CE301/edit/main/readme.md#instructions)
-    1. [Image Selection](https://github.com/jianxuancao/CE301/edit/main/readme.md#image-selection)
-    1. [NDVI analysis](https://github.com/jianxuancao/CE301/edit/main/readme.md#ndvi-analysis)
-    1. [Post-Processing](https://github.com/jianxuancao/CE301/edit/main/readme.md#post-processing)
-    1. [Some features that improve the experience](https://github.com/jianxuancao/CE301/edit/main/readme.md#some-features-that-improve-the-experience)
+1. [Prerequisites and Installation](https://github.com/jianxuancao/CE301/blob/main/readme.md#prerequisites-and-installation)
+1. [Instructions](https://github.com/jianxuancao/CE301/blob/main/readme.md#instructions)
+    1. [Image Selection](https://github.com/jianxuancao/CE301/blob/main/readme.md#image-selection)
+    1. [NDVI analysis](https://github.com/jianxuancao/CE301/blob/main/readme.md#ndvi-analysis)
+    1. [Post-Processing](https://github.com/jianxuancao/CE301/blob/main/readme.md#post-processing)
+    1. [Some features that improve the experience](https://github.com/jianxuancao/CE301/blob/main/readme.md#some-features-that-improve-the-experience)
 ------------
 ## Prerequisites and Installation
 * Google account that passed the registration of GEE platform. [Google Earth Engine](https://code.earthengine.google.com/ "Google Earth Engine")
