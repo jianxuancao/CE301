@@ -1,4 +1,6 @@
 ## Rough Planning Record
+
+https://code.earthengine.google.com/
 ##### Develop functioning programs based on GEE（week 3-7）
 1. time selection
 1. Understanding the NDVI algorithm
